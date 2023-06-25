@@ -1,0 +1,29 @@
+body {
+  background: #0073c7;
+  color: #ffc718;
+}
+
+h1 {
+  margin: 10px auto;
+  font-family: Verdana;
+}
+
+p {
+  font-family: "Courier New";
+}
+
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flexbox{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.spaceAround {
+  margin: 5px 10px 5px 10px;
+}
